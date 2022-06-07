@@ -1,0 +1,9 @@
+{
+  "User1":{
+    "City_name":"Mysore",
+    "Latitude":30,
+    "Longitude":"swift",
+    "Temperature": 22,
+    "Humidity": "90%"
+  }
+}
